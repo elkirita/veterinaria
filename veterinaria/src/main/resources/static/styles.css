@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    font-family:Segoe UI;
+    background:#f1fff3;
+}
+
+header{
+    background:#2e7d32;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+.hero{
+    text-align:center;
+    padding:80px;
+}
